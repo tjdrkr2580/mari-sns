@@ -1,7 +1,12 @@
 import React from "react";
+import Layout from "./../components/Layout";
 
 const Signup = () => {
-  return <div>회원가입 페이지</div>;
+  return (
+    <Layout>
+      <div>회원가입 페이지</div>
+    </Layout>
+  );
 };
 
 export default Signup;
