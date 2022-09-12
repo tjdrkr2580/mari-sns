@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "next": "^12.3.0"
+    "@ant-design/icons": "^4.7.0",
+    "antd": "^4.23.1",
+    "next": "^12.3.0",
+    "styled-components": "^5.3.5"
   },
   "name": "next-social-community",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "dev": "next"
   },
