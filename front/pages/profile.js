@@ -5,12 +5,12 @@ import Head from "next/head";
 const Profile = () => {
   return (
     <>
-    <head>
+    <Head>
       <title>내 정보 | Mari SNS</title>
-    </head>
-    <Layout>
-      <div>내 정보</div>
-    </Layout>
+    </Head>
+      <Layout>
+        <div>내 정보</div>
+      </Layout>
     </>
   );
 };

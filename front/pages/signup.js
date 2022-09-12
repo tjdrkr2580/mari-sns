@@ -3,15 +3,14 @@ import Layout from "./../components/Layout";
 import Head from "next/head";
 
 const Signup = () => {
-  
   return (
     <>
-    <head>
+      <Head>
       <title>회원가입 | Mari SNS</title>
-    </head>
-    <Layout>
-      <div>회원가입 페이지</div>
-    </Layout>
+    </Head>
+      <Layout>
+        <div>회원가입 페이지</div>
+      </Layout>
     </>
   );
 };

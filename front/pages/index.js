@@ -5,9 +5,9 @@ import Head from "next/head";
 const Home = () => {
   return (
     <>
-    <head>
+    <Head>
       <title>홈 | Mari SNS</title>
-    </head>
+    </Head>
     <Layout>
       <div>Hello, Next!</div>
     </Layout>
