@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "next": "^12.3.0"
+  },
+  "name": "next-social-community",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
