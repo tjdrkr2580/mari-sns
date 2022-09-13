@@ -17,7 +17,7 @@ const Layout = ({ children }) => {
       <Menu mode="horizontal">
         <Menu.Item>
           <Link href="/">
-            <a>Mari SNS</a>
+            <a>Mari</a>
           </Link>
         </Menu.Item>
         <Menu.Item>
